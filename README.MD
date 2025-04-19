@@ -31,7 +31,7 @@ https://dbdiagram.io/d/GGManager-6612f0cc03593b6b61675069
 
 ## 🗓️ Planejamento de Sprints
 Abaixo está o cronograma de sprints para o desenvolvimento do GGManager. O planejamento foi dividido em ciclos semanais, com foco incremental nos módulos essenciais para o funcionamento do app.
-### ✅ Sprint 1 – Estrutura inicial do projeto (1 semana)
+### ✅ Sprint 1 – Estrutura inicial do projeto (2 semana)
 Objetivos:
 - Configurar ambiente de desenvolvimento (front-end e back-end)
 - Definir estrutura do banco de dados e migrar tabelas
@@ -43,7 +43,7 @@ Tarefas:
 - Middleware de autenticação
 - Diferenciação de rotas/admin/user
 
-### ✅ Sprint 2 – Gestão de times e torneios (1 semana)
+### ✅ Sprint 2 – Gestão de times e torneios (2 semana)
 Objetivos:
 
 - CRUD de times (somente admin)
@@ -55,7 +55,7 @@ Tarefas:
 - Telas de listagem e cadastro de torneios
 - Adicionar times a torneios
 
-### ✅ Sprint 3 – Partidas e resultados (1 semana)
+### ✅ Sprint 3 – Partidas e resultados (2 semana)
 Objetivos:
 - Cadastro de partidas (oitavas → final)
 - Lançamento de resultados
@@ -66,7 +66,7 @@ Tarefas:
 - Tela para preenchimento de resultado da partida
 - Lógica de avanço de fase (básica, manual)
 
-### ✅ Sprint 4 – Acompanhamento pelo usuário comum (1 semana)
+### ✅ Sprint 4 – Acompanhamento pelo usuário comum (2 semana)
 Objetivos:
 - Tela de dashboard do time
 - Visualização de partidas e resultados
