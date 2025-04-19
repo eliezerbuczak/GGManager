@@ -24,3 +24,7 @@ GGManager é um aplicativo desenvolvido para a gestão de times de eSports, perm
 - [ ] Notificações push para lembrar jogadores e organizadores sobre partidas agendadas.
 
 - [ ] Dashboard com estatísticas e gráficos para visualizar o desempenho dos times.
+
+
+## Banco de dados - Modelo:
+https://dbdiagram.io/d/GGManager-6612f0cc03593b6b61675069
