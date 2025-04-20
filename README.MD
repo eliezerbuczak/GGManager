@@ -29,6 +29,10 @@ GGManager é um aplicativo desenvolvido para a gestão de times de eSports, perm
 ## Banco de dados - Modelo:
 https://dbdiagram.io/d/GGManager-6612f0cc03593b6b61675069
 
+## Figma:
+- (Telas e design System)[https://www.figma.com/design/uGGxV07K52jrs2MSQnyzr2/GGManager?node-id=7518-482&t=T4l18E1xwYwLv6cn-1]
+- (Protótipo com navegação)[https://www.figma.com/proto/uGGxV07K52jrs2MSQnyzr2/GGManager?node-id=7520-2379&t=87oldF546pA5ggLL-0&scaling=scale-down&content-scaling=fixed&page-id=7518%3A482&starting-point-node-id=7520%3A643]
+
 ## 🗓️ Planejamento de Sprints
 Abaixo está o cronograma de sprints para o desenvolvimento do GGManager. O planejamento foi dividido em ciclos semanais, com foco incremental nos módulos essenciais para o funcionamento do app.
 ### ✅ Sprint 1 – Estrutura inicial do projeto (2 semana)
@@ -76,3 +80,4 @@ Tarefas:
 - Tela "meu time"
 - Tela de visualização de torneios
 - Listagem de confrontos e resultados
+
